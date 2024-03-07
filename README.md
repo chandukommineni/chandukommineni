@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandu Kommineni</h1>
-<h3 align="center">A passionate Full Stack Java developer from India</h3>
+<h3 align="center">🚀 Aspiring Developer | Passionate Learner | Code Enthusiast 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandukommineni&label=Profile%20views&color=0e75b6&style=flat" alt="chandukommineni" /> </p>
 
