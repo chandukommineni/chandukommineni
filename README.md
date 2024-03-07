@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandukommineni&label=Profile%20views&color=0e75b6&style=flat" alt="chandukommineni" /> </p>
 
-- 🌱 I’m currently learning **DataStructures And Algorithms**
+
+- 🎓 Computer Science student eager to explore the realms of software development.
+
+- 🔍 Seeking opportunities to collaborate, learn, and grow within the tech community.
+
+- 🌱 I’m currently learning **DataStructures And Algorithms **
 
 - 💬 Ask me about **Java,Python,React,Springboot**
 
-- 📫 How to reach me **chandukommineni63@gmail.com**
+- 📫 Let's connect and build something amazing together! Reach out to me at **chandukommineni63@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
