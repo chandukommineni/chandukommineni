@@ -1,29 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandu Kommineni</h1>
 <h3 align="center">🚀 Aspiring Developer | Passionate Learner | Code Enthusiast 🌟</h3>
-<!-- Light Mode -->
 
-<img align="right" src="https://github.com/chandukommineni/chandukommineni/blob/main/main.gif" alt="Light Mode Image">
-
-
-<!-- Dark Mode -->
-
-<img align="right" src="dark_image.jpg" alt="Dark Mode Image">
-
-
-<style>
-    @media (prefers-color-scheme: dark) {
-        img[alt="Light Mode Image"] {
-            display: none;
-        }
-    }
-
-    @media (prefers-color-scheme: light) {
-        img[alt="Dark Mode Image"] {
-            display: none;
-        }
-    }
-</style>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/chandukommineni/chandukommineni/blob/main/main.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandukommineni&label=Profile%20views&color=0e75b6&style=flat" alt="chandukommineni" /> </p>
 
