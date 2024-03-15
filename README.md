@@ -1,3 +1,4 @@
+![Banner](https://github.com/chandukommineni/chandukommineni/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Chandu Kommineni</h1>
 <h3 align="center">🚀 Aspiring Developer | Passionate Learner | Code Enthusiast 🌟</h3>
 
